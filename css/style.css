@@ -1,0 +1,15 @@
+.card{
+    width:18vw;
+}
+#mountainIMG{
+    background: url(../media/mountains.jpg) no-repeat;
+    background-size: contain;
+    height: 400px;
+    width: 400px;
+}
+#mapIMG{
+    background: url(../media/map.jpg) no-repeat;
+    background-size: contain;
+    height: 300px;
+    width: 300px;
+}
